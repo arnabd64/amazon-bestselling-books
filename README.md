@@ -1,6 +1,6 @@
 # Amazon Top 50 best selling books - Exploratory Data Analysis
 
-The dataset is obtained from [Kaggle](https://kaggle.io), to import the dataset onto your jupyter notebook or other environment, use the github link: https://raw.githubusercontent.com/arnabd64/amazon-bestselling-books/main/books.csv
+The dataset is obtained from [Kaggle](https://kaggle.com), to import the dataset onto your jupyter notebook or other environment, use the github link: https://raw.githubusercontent.com/arnabd64/amazon-bestselling-books/main/books.csv
 
 ### For importing in Python
 
@@ -28,8 +28,4 @@ This dataset contains the Top 50 best-selling books from Amazon.com for every ye
 | Year        | integer   | Year in which it was on Best Selling category |
 | Genre       | string    | Genre of the Book (Fiction or Non-Fiction)    |
 
-
-
 My objective is to perform __Exploratory Data Analysis__ using the basic packages available to us. In python, I used `pandas`, `matplotlib` and `seaborn` packages. All the work is done using Jupyter Notebook with python 3.9. The output file is a `.ipynb` which is easily viewable on Github.
-
-
